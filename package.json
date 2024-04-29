@@ -1,7 +1,7 @@
 {
-    "name": "K.Quann",
+    "name": "CircleBot",
     "version": "1.2.15",
-    "description": "===============",
+    "description": "Author Bot: Ng.Ngọc Khánh Quân",
     "main": "mirai.js",
     "scripts": {
         "start": "node index",
